@@ -85,11 +85,36 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
+            FNZ Group
+            </span>
+            <span className='px-2'>|</span>Shanghai, China
+          </p>
+          <p className='py-1 italic'>Analyst Developer, (Sept 2023 - Current)</p>
+          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
+            <li>
+              Project: James Hay Project (JHP)
+            </li>
+            <li>
+              Researches, designs, develops, and/or modifies enterprise-wide 
+              systems and/or applications software.
+            </li>
+            <li>
+              Involved in planning of system and development deployment as well 
+              as responsible for meeting software compliance standards.
+            </li>
+            <li>
+              Documents testing and maintenance of system corrections.
+            </li>
+          </ul>
+        </div>
+        <div className='py-6'>
+          <p className='italic'>
+            <span className='font-bold italic'>
             Northwestern Polytechnical University
             </span>
             <span className='px-2'>|</span>Xi'an, Shaanxi, China
           </p>
-          <p className='py-1 italic'>Graduate Student Researcher and Software Developer, (Sept 2021 - Current)</p>
+          <p className='py-1 italic'>Graduate Student Researcher and Software Developer, (Sept 2021 - Sept 2023)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Project: Software Vulnerabilty Discovery using Knowledge Graphs
