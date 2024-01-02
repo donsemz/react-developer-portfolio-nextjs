@@ -12,6 +12,8 @@ import NextJS from '../public/assets/skills/nextjs.png';
 import NodeJS from '../public/assets/skills/node.png';
 import Azure from '../public/assets/skills/azure.jpg';
 import SQL from '../public/assets/skills/sql.png';
+import Selenium from '../public/assets/skills/selenium.png'
+import TensorFlow from '../public/assets/skills/tensorflow.png'
 
 const Skills = () => {
   return (
@@ -119,6 +121,26 @@ const Skills = () => {
               </div>
               <div className='flex flex-col items-center justify-center'>
                 <h3>SQL Databases</h3>
+              </div>
+            </div>
+          </div>
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+            <div className='grid grid-cols-2 gap-4 justify-center items-center'>
+              <div className='m-auto'>
+                <Image src={TensorFlow} width='64px' height='64px' alt='/' />
+              </div>
+              <div className='flex flex-col items-center justify-center'>
+                <h3>TensorFlow</h3>
+              </div>
+            </div>
+          </div>
+          <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
+            <div className='grid grid-cols-2 gap-4 justify-center items-center'>
+              <div className='m-auto'>
+                <Image src={Selenium} width='64px' height='64px' alt='/' />
+              </div>
+              <div className='flex flex-col items-center justify-center'>
+                <h3>Selenium (Test Automation)</h3>
               </div>
             </div>
           </div>

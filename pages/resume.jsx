@@ -66,15 +66,17 @@ const resume = () => {
           <p className='py-2'>
             <span className='font-bold'>Technical Skills</span>
             <span className='px-2'>|</span>FullStack Developer
-            <span className='px-2'>|</span>C# (.Net Core)
+            <span className='px-2'>|</span>C# (.Net Core, .Net Framework)
             <span className='px-2'>|</span>Python (SeleniumBase, Keras, FastAPI)
             <span className='px-2'>|</span>Javascript
-            <span className='px-2'>|</span>React
+            <span className='px-2'>|</span>React (React Hooks, ContextAPI, React Forms)
             <span className='px-2'>|</span>MongoDB
             <span className='px-2'>|</span>SQL
-            <span className='px-2'>|</span>Microsoft Azure
+            <span className='px-2'>|</span>Microsoft Azure (Azure DevOps)
             <span className='px-2'>|</span>TailwindCSS
             <span className='px-2'>|</span>RESTAPI
+            <span className='px-2'>|</span>TensorFlow
+            <span className='px-2'>|</span>Selenium
           </p>
         </div>
 
@@ -95,15 +97,16 @@ const resume = () => {
               Project: James Hay Project (JHP)
             </li>
             <li>
-              Researches, designs, develops, and/or modifies enterprise-wide 
-              systems and/or applications software.
+            Involved in the research, design, development, and modification of enterprise-wide systems and applications software.
             </li>
             <li>
-              Involved in planning of system and development deployment as well 
-              as responsible for meeting software compliance standards.
+            Played a pivotal role in the strategic planning of system deployment, ensuring compliance with software standards.
             </li>
             <li>
-              Documents testing and maintenance of system corrections.
+            Achieved a 2% increase in team project productivity, optimizing output efficiency.
+            </li>
+            <li>
+            Drove the upgrade of legacy system modules, implementing a transition to modern architectural styles.
             </li>
           </ul>
         </div>
@@ -120,12 +123,10 @@ const resume = () => {
               Project: Software Vulnerabilty Discovery using Knowledge Graphs
             </li>
             <li>
-            Work on publishing scientic research papers along with furthering studies on analysis
-             of Deep Learning and its affects on Software Vulnerability Detection.
+            Worked on publishing scientific research papers along with furthering studies on analysis of Deep Learning and its affects on Software Vulnerability Detection.
             </li>
             <li>
-              Troubleshoot issues and concerns, configure operation and analytic
-              plugins, and design changes as needed.
+            Published over 3 high quality research papers within this project timeframe.
             </li>
             <li>
               Worked directly with a team managed by me and produce software 
@@ -139,51 +140,29 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
-            Danica Pension LPADC (Inscale Asia)
+            Inscale Asia
             </span>
             <span className='px-2'>|</span>Kuala Lumpur, Malaysia
           </p>
-          <p className='py-1 italic'>Junior Software Developer (June 2018 - Sept 2018)</p>
+          <p className='py-1 italic'>Junior Software Developer (October 2016 - Sept 2018)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              Projects: Danica E-Pension Cheque
-            </li>
-            <li>
-            Investigation, design, and implement scalable applications for data identication, analysis, retrieval, and indexing.
-            </li>
-            <li>
-            Cooperate diligently with other IT team members to plan, design, and develop smart solutions.
-            </li>
-            <li>
-            Continually updated a leadership resume and honed skills by participating in various management trainings
-            </li>
-          </ul>
-        </div>
-
-        <div className='py-6'>
-          <p className='italic'>
-            <span className='font-bold italic'>
-            SEB Pension LPADC (Inscale Asia)
-            </span>
-            <span className='px-2'>|</span>Kuala Lumpur, Malaysia
-          </p>
-          <p className='py-1 italic'>Junior Software Developer (Sept 2016 - June 2018)</p>
-          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
-            <li>
-              Projects: SEB E-Pension Cheque, Case Handling System, Office Operations System
-            </li>
-            <li>
-            Consulted regularly with team on project status, proposals, and technical issues.
+              Projects: Danica E-Pension Cheque, SEB E-Pension Cheque, SEB Case Handling System, SEB Office Operations System
             </li>
             <li>
             Transformed existing software to correct errors, upgrade interfaces, and improve efficiency.
             </li>
             <li>
-            Honed skills in leadership, learning, adaptation, and teamwork.
+            Coordinated with project management staff on database development timelines and project scope.
+            </li>
+            <li>
+            Collaborated on all stages of systems development lifecycle from requirement gathering to production releases.
+            </li>
+            <li>
+            Cooperate diligently with other IT team members to plan, design, and develop smart solutions. While increasing overall company project outputs by 3%
             </li>
           </ul>
-        </div>
-      
+        </div>   
       </div>
     </>
   );
